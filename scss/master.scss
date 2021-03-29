@@ -93,7 +93,8 @@ main {
             padding-left: 1rem;
             color: $colorNeutralLight;
             line-height: 1.3rem;
-            p {
+            span {
+                display: block;
                 color: $colorPrimaryLight;
                 font-weight: 400;
             }
